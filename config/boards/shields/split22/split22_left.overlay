@@ -1,5 +1,6 @@
 #include "split22.dtsi"
-
-&default_transform {
+/ {
+  &default_transform {
     col-offset = <5>;
-};
+  };
+}
