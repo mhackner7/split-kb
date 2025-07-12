@@ -1,1 +1,1 @@
-#include <split22.dtsi>
+#include "split22.dtsi"
