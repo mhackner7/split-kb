@@ -1,0 +1,5 @@
+config SHIELD_SPLIT22_LEFT
+    def_bool $(shields_list_contains, split22_left)
+
+config SHIELD_SPLIT22_RIGHT
+    def_bool $(shields_list_contains, split22_right)
